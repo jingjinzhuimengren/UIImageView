@@ -15,6 +15,24 @@
 		923813D71DC9E12B00A3EA24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 923813D51DC9E12B00A3EA24 /* LaunchScreen.storyboard */; };
 		923813E21DC9E12B00A3EA24 /* UIImageViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 923813E11DC9E12B00A3EA24 /* UIImageViewTests.m */; };
 		923813ED1DC9E12B00A3EA24 /* UIImageViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 923813EC1DC9E12B00A3EA24 /* UIImageViewUITests.m */; };
+		9238140D1DC9E15400A3EA24 /* DOVE 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 923813FB1DC9E15400A3EA24 /* DOVE 1.png */; };
+		9238140E1DC9E15400A3EA24 /* DOVE 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 923813FC1DC9E15400A3EA24 /* DOVE 10.png */; };
+		9238140F1DC9E15400A3EA24 /* DOVE 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 923813FD1DC9E15400A3EA24 /* DOVE 11.png */; };
+		923814101DC9E15400A3EA24 /* DOVE 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 923813FE1DC9E15400A3EA24 /* DOVE 12.png */; };
+		923814111DC9E15400A3EA24 /* DOVE 13.png in Resources */ = {isa = PBXBuildFile; fileRef = 923813FF1DC9E15400A3EA24 /* DOVE 13.png */; };
+		923814121DC9E15400A3EA24 /* DOVE 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814001DC9E15400A3EA24 /* DOVE 14.png */; };
+		923814131DC9E15400A3EA24 /* DOVE 15.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814011DC9E15400A3EA24 /* DOVE 15.png */; };
+		923814141DC9E15400A3EA24 /* DOVE 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814021DC9E15400A3EA24 /* DOVE 16.png */; };
+		923814151DC9E15400A3EA24 /* DOVE 17.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814031DC9E15400A3EA24 /* DOVE 17.png */; };
+		923814161DC9E15400A3EA24 /* DOVE 18.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814041DC9E15400A3EA24 /* DOVE 18.png */; };
+		923814171DC9E15400A3EA24 /* DOVE 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814051DC9E15400A3EA24 /* DOVE 2.png */; };
+		923814181DC9E15400A3EA24 /* DOVE 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814061DC9E15400A3EA24 /* DOVE 3.png */; };
+		923814191DC9E15400A3EA24 /* DOVE 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814071DC9E15400A3EA24 /* DOVE 4.png */; };
+		9238141A1DC9E15400A3EA24 /* DOVE 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814081DC9E15400A3EA24 /* DOVE 5.png */; };
+		9238141B1DC9E15400A3EA24 /* DOVE 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 923814091DC9E15400A3EA24 /* DOVE 6.png */; };
+		9238141C1DC9E15400A3EA24 /* DOVE 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 9238140A1DC9E15400A3EA24 /* DOVE 7.png */; };
+		9238141D1DC9E15400A3EA24 /* DOVE 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 9238140B1DC9E15400A3EA24 /* DOVE 8.png */; };
+		9238141E1DC9E15400A3EA24 /* DOVE 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 9238140C1DC9E15400A3EA24 /* DOVE 9.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +69,24 @@
 		923813E81DC9E12B00A3EA24 /* UIImageViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIImageViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		923813EC1DC9E12B00A3EA24 /* UIImageViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIImageViewUITests.m; sourceTree = "<group>"; };
 		923813EE1DC9E12B00A3EA24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		923813FB1DC9E15400A3EA24 /* DOVE 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 1.png"; sourceTree = "<group>"; };
+		923813FC1DC9E15400A3EA24 /* DOVE 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 10.png"; sourceTree = "<group>"; };
+		923813FD1DC9E15400A3EA24 /* DOVE 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 11.png"; sourceTree = "<group>"; };
+		923813FE1DC9E15400A3EA24 /* DOVE 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 12.png"; sourceTree = "<group>"; };
+		923813FF1DC9E15400A3EA24 /* DOVE 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 13.png"; sourceTree = "<group>"; };
+		923814001DC9E15400A3EA24 /* DOVE 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 14.png"; sourceTree = "<group>"; };
+		923814011DC9E15400A3EA24 /* DOVE 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 15.png"; sourceTree = "<group>"; };
+		923814021DC9E15400A3EA24 /* DOVE 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 16.png"; sourceTree = "<group>"; };
+		923814031DC9E15400A3EA24 /* DOVE 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 17.png"; sourceTree = "<group>"; };
+		923814041DC9E15400A3EA24 /* DOVE 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 18.png"; sourceTree = "<group>"; };
+		923814051DC9E15400A3EA24 /* DOVE 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 2.png"; sourceTree = "<group>"; };
+		923814061DC9E15400A3EA24 /* DOVE 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 3.png"; sourceTree = "<group>"; };
+		923814071DC9E15400A3EA24 /* DOVE 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 4.png"; sourceTree = "<group>"; };
+		923814081DC9E15400A3EA24 /* DOVE 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 5.png"; sourceTree = "<group>"; };
+		923814091DC9E15400A3EA24 /* DOVE 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 6.png"; sourceTree = "<group>"; };
+		9238140A1DC9E15400A3EA24 /* DOVE 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 7.png"; sourceTree = "<group>"; };
+		9238140B1DC9E15400A3EA24 /* DOVE 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 8.png"; sourceTree = "<group>"; };
+		9238140C1DC9E15400A3EA24 /* DOVE 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DOVE 9.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +117,7 @@
 		923813BB1DC9E12B00A3EA24 = {
 			isa = PBXGroup;
 			children = (
+				923813FA1DC9E15400A3EA24 /* bird */,
 				923813C61DC9E12B00A3EA24 /* UIImageView */,
 				923813E01DC9E12B00A3EA24 /* UIImageViewTests */,
 				923813EB1DC9E12B00A3EA24 /* UIImageViewUITests */,
@@ -138,6 +175,31 @@
 				923813EE1DC9E12B00A3EA24 /* Info.plist */,
 			);
 			path = UIImageViewUITests;
+			sourceTree = "<group>";
+		};
+		923813FA1DC9E15400A3EA24 /* bird */ = {
+			isa = PBXGroup;
+			children = (
+				923813FB1DC9E15400A3EA24 /* DOVE 1.png */,
+				923813FC1DC9E15400A3EA24 /* DOVE 10.png */,
+				923813FD1DC9E15400A3EA24 /* DOVE 11.png */,
+				923813FE1DC9E15400A3EA24 /* DOVE 12.png */,
+				923813FF1DC9E15400A3EA24 /* DOVE 13.png */,
+				923814001DC9E15400A3EA24 /* DOVE 14.png */,
+				923814011DC9E15400A3EA24 /* DOVE 15.png */,
+				923814021DC9E15400A3EA24 /* DOVE 16.png */,
+				923814031DC9E15400A3EA24 /* DOVE 17.png */,
+				923814041DC9E15400A3EA24 /* DOVE 18.png */,
+				923814051DC9E15400A3EA24 /* DOVE 2.png */,
+				923814061DC9E15400A3EA24 /* DOVE 3.png */,
+				923814071DC9E15400A3EA24 /* DOVE 4.png */,
+				923814081DC9E15400A3EA24 /* DOVE 5.png */,
+				923814091DC9E15400A3EA24 /* DOVE 6.png */,
+				9238140A1DC9E15400A3EA24 /* DOVE 7.png */,
+				9238140B1DC9E15400A3EA24 /* DOVE 8.png */,
+				9238140C1DC9E15400A3EA24 /* DOVE 9.png */,
+			);
+			path = bird;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +308,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				923814161DC9E15400A3EA24 /* DOVE 18.png in Resources */,
+				9238141E1DC9E15400A3EA24 /* DOVE 9.png in Resources */,
+				923814171DC9E15400A3EA24 /* DOVE 2.png in Resources */,
+				923814151DC9E15400A3EA24 /* DOVE 17.png in Resources */,
+				9238141D1DC9E15400A3EA24 /* DOVE 8.png in Resources */,
+				923814111DC9E15400A3EA24 /* DOVE 13.png in Resources */,
+				9238140F1DC9E15400A3EA24 /* DOVE 11.png in Resources */,
+				923814141DC9E15400A3EA24 /* DOVE 16.png in Resources */,
+				9238140D1DC9E15400A3EA24 /* DOVE 1.png in Resources */,
+				923814121DC9E15400A3EA24 /* DOVE 14.png in Resources */,
+				9238140E1DC9E15400A3EA24 /* DOVE 10.png in Resources */,
+				9238141C1DC9E15400A3EA24 /* DOVE 7.png in Resources */,
+				9238141A1DC9E15400A3EA24 /* DOVE 5.png in Resources */,
 				923813D71DC9E12B00A3EA24 /* LaunchScreen.storyboard in Resources */,
+				923814131DC9E15400A3EA24 /* DOVE 15.png in Resources */,
 				923813D41DC9E12B00A3EA24 /* Assets.xcassets in Resources */,
+				9238141B1DC9E15400A3EA24 /* DOVE 6.png in Resources */,
 				923813D21DC9E12B00A3EA24 /* Main.storyboard in Resources */,
+				923814181DC9E15400A3EA24 /* DOVE 3.png in Resources */,
+				923814101DC9E15400A3EA24 /* DOVE 12.png in Resources */,
+				923814191DC9E15400A3EA24 /* DOVE 4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
